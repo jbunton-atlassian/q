@@ -1,6 +1,6 @@
 {
-  "name": "q",
-  "version": "1.4.1",
+  "name": "@atlassian/hacked-q",
+  "version": "1.4.1-hacked1",
   "description": "A library for promises (CommonJS/Promises/A,B,D)",
   "homepage": "https://github.com/kriskowal/q",
   "author": "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal)",
@@ -19,14 +19,11 @@
     "node"
   ],
   "contributors": [
+    "James Bunton <jbunton@atlassian.com>",
     "Kris Kowal <kris@cixar.com> (https://github.com/kriskowal)",
     "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
     "Domenic Denicola <domenic@domenicdenicola.com> (http://domenicdenicola.com)"
   ],
-  "bugs": {
-    "mail": "kris@cixar.com",
-    "url": "http://github.com/kriskowal/q/issues"
-  },
   "license": "MIT",
   "main": "q.js",
   "files": [
